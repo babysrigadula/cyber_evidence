@@ -6,9 +6,8 @@ A professional academic web interface for managing cybercrime investigation case
 
 After publishing this project with **GitHub Pages**, your live website will be available at:
 
-`https://YOUR-GITHUB-USERNAME.github.io/cybercrime-investigation-system/`
+`https://babysrigadula.github.io/cyber_evidence/`
 
-> Replace `YOUR-GITHUB-USERNAME` with your actual GitHub username.
 
 ## 📌 Project Overview
 
