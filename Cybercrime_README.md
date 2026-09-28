@@ -6,7 +6,7 @@ A professional academic web interface for managing cybercrime investigation case
 
 After publishing this project with **GitHub Pages**, your live website will be available at:
 
-`https://babysrigadula.github.io/cyber_evidence/`
+[View Live Website](https://babysrigadula.github.io/cyber_evidence/)
 
 
 ## 📌 Project Overview
