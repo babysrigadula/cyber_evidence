@@ -151,28 +151,12 @@ This project is an academic prototype/interface. It should not be treated as a p
 
 A matching SHA-256 hash supports an integrity check, but a hash alone does not establish the origin, authenticity or lawful acquisition of evidence.
 
-👥 Team Members
+## 👥 Team Members
 
-S. No.
-
-Team Member
-
-1
-
-Babysri
-
-2
-
-Rajitha
-
-3
-
-Savithri
-
-4
-
-Kalyani
-
+- **Babysri**
+- **Rajitha**
+- **Savithri**
+- **Kalyani**
 
 ## 🎓 Project Type
 
